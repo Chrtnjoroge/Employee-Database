@@ -48,7 +48,7 @@ This is a simple Employee Database Management System implemented in Bash. It all
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chrtnjoroge/employee-database.git
+   git clone https://github.com/Chrtnjoroge/employee-database.git
    cd employee-database
 
 
